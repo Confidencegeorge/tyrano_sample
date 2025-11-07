@@ -180,7 +180,7 @@ ISNT[r]
 [cm][font size=44 bold=true]
 [position  left="10" width="500"]
 
-EGSN[r]
+ESNJ[r]
 発明家[r][r]
 
 独創的なアイデアで世界をかえる.没頭しすぎて周りがみえないことも.
